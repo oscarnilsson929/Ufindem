@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "732183267316",
+    "firebase_url": "https://ufindem-92e11.firebaseio.com",
+    "project_id": "ufindem-92e11",
+    "storage_bucket": "ufindem-92e11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732183267316:android:aa1b12a01b9d7ebb",
+        "android_client_info": {
+          "package_name": "com.salah.ufindem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732183267316-tpiiedmhgoqhl924cpiiacubqv4n2upe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salah.ufindem",
+            "certificate_hash": "c3d071b2eb81f10259863fcc60e1d8d5751ee047"
+          }
+        },
+        {
+          "client_id": "732183267316-cnnt0gudhatm9a4uk40qs483lrkpk057.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6k13PxCwMFQl5pL8c7WIfO58FmtIe7O0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732183267316-cnnt0gudhatm9a4uk40qs483lrkpk057.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
